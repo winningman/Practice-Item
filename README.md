@@ -1,2 +1,2 @@
 # Practice-Item
-这是练习项目
+这是HBase的一小部分Java API练习项目
