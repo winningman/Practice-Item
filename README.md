@@ -1,2 +1,2 @@
 # Practice-Item
-这是HBase的一小部分Java API练习项目
+这是大数据相关的练习项目
