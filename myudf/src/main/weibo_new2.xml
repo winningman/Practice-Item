@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE 根元素标签名 [
+<!ENTITY nbsp " ">
+<!ENTITY copy "©">
+<!ENTITY reg "®">
+<!ENTITY trade "™">
+<!ENTITY mdash "—">
+<!ENTITY ldquo "“">
+<!ENTITY rdquo "”"> 
+<!ENTITY pound "£">
+<!ENTITY yen "¥">
+<!ENTITY euro "€">
+]>
+<PERSONS>
+ <person>
+     <id>11086</id>
+     <sex>男</sex>
+     <address>广东，广州</address>
+     <fansNum>592</fansNum>
+     <summary>做自己的梦，走自己的路。</summary>
+     <wbNum>1051</wbNum>
+     <gzNum>280</gzNum>
+     <blog>http://www.yijee.com</blog>
+     <edu>高中：    彭湃中学  (1999年)</edu>
+     <work>公司：    新浪微博-Xweibo  地区：广东 ，广州 职位：web前端</work>
+     <renZh>1</renZh>
+     <brithday>魔羯座</brithday>
+ </person>
+ <person>
+     <id>80414</id>
+     <sex>男</sex>
+     <address>北京，海淀区</address>
+     <fansNum>437</fansNum>
+     <summary>Since 198X</summary>
+     <wbNum>333</wbNum>
+     <gzNum>242</gzNum>
+     <blog>null</blog>
+     <edu>大学：    中国人民大学</edu>
+     <work></work>
+     <renZh>1</renZh>
+     <brithday>4月14日</brithday>
+ </person>
+ <person>
+     <id>86616</id>
+     <sex>男</sex>
+     <address>北京，海淀区</address>
+     <fansNum>65</fansNum>
+     <summary>没有失败，只有暂时停止成功！</summary>
+     <wbNum>87</wbNum>
+     <gzNum>66</gzNum>
+     <blog>null</blog>
+     <edu></edu>
+     <work></work>
+     <renZh>1</renZh>
+     <brithday>null</brithday>
+ </person>
+ <person>
+     <id>95095</id>
+     <sex>男</sex>
+     <address>北京，朝阳区</address>
+     <fansNum>33271</fansNum>
+     <summary>以前不等于现在、现在也不等于将来、我们都在改变.............</summary>
+     <wbNum>369</wbNum>
+     <gzNum>151</gzNum>
+     <blog>http://blog.sina.com.cn/gengyizheng</blog>
+     <edu>大学：    北京师范大学  (2002年) 北京师范大学艺术与传媒学院</edu>
+     <work>公司：    颁德传媒</work>
+     <renZh>1</renZh>
+     <brithday>9月3日</brithday>
+ </person>
+ <person>
+     <id>99001</id>
+     <sex>男</sex>
+     <address>北京</address>
+     <fansNum>601</fansNum>
+     <summary>命里有时终须有，命里无时莫强求。</summary>
+     <wbNum>933</wbNum>
+     <gzNum>323</gzNum>
+     <blog>null</blog>
+     <edu></edu>
+     <work>公司：    新浪网技术（中国）有限公司  地区：北京 ，海淀区   北京怡生乐居信息服务有限公司  职位：销售   SOHU  地区：北京 职位：华北销售   盛拓传媒--汽车之家  地区：北京 职位：渠道部</work>
+     <renZh>1</renZh>
+     <brithday>null</brithday>
+ </person>
+ <person>
+     <id>99999</id>
+     <sex>男</sex>
+     <address>其他</address>
+     <fansNum>104027</fansNum>
+     <summary>他还没填写个人介绍</summary>
+     <wbNum>8</wbNum>
+     <gzNum>57</gzNum>
+     <blog>null</blog>
+     <edu></edu>
+     <work></work>
+     <renZh>1</renZh>
+     <brithday>null</brithday>
+ </person>
+ <person>
+     <id>103500</id>
+     <sex>男</sex>
+     <address>北京，海淀区</address>
+     <fansNum>85773</fansNum>
+     <summary>专注于架构设计、项目管理、底层研发。现任一家网技术总监，曾任金山游戏·运营技术中心·开发经理、金山逍遥网架构师、新浪播客系统工程师。</summary>
+     <wbNum>328</wbNum>
+     <gzNum>1924</gzNum>
+     <blog>http://blog.s135.com</blog>
+     <edu>大学：    中南民族大学  (2003年) 经济学院 国际经济与贸易1班</edu>
+     <work>公司：    新浪网技术（中国）有限公司 (2007 - 2008) 地区：北京 ，海淀区 职位：原新浪互动社区事业部播客产品部系统工程师   金山游戏 (2008 - 2011) 地区：北京 ，海淀区 职位：运营技术中心 网站开发部 技术经理   北京世纪一家网电子商务有限公司 (2011 - 至今) 地区：北京 ，朝阳区 职位：技术总监</work>
+     <renZh>1</renZh>
+     <brithday>1985年5月19日</brithday>
+ </person>
+ <person>
+     <id>103558</id>
+     <sex>女</sex>
+     <address>北京</address>
+     <fansNum>1513</fansNum>
+     <summary>难道就此开始写东西了？！</summary>
+     <wbNum>1042</wbNum>
+     <gzNum>298</gzNum>
+     <blog>null</blog>
+     <edu>大学：    中国人民大学</edu>
+     <work></work>
+     <renZh>1</renZh>
+     <brithday>null</brithday>
+ </person>
+ <person>
+     <id>103778</id>
+     <sex>男</sex>
+     <address>北京,海淀区</address>
+     <fansNum>464</fansNum>
+     <summary>海阔凭鱼跃，天高任鸟飞！</summary>
+     <wbNum>1537</wbNum>
+     <gzNum>346</gzNum>
+     <blog>null</blog>
+     <edu>null</edu>
+     <work>悠视网	新浪网技术（中国）有限公司	pateo	pateo	</work>
+     <renZh>0</renZh>
+     <brithday>null</brithday>
+ </person>
+ <person>
+     <id>103984</id>
+     <sex>男</sex>
+     <address>北京,</address>
+     <fansNum>1007</fansNum>
+     <summary>立志做成功的系统工程师</summary>
+     <wbNum>8349</wbNum>
+     <gzNum>178</gzNum>
+     <blog>http://julyclyde.org</blog>
+     <edu>大学：	解放军信息工程大学	-二大队5队、一大队5队、测院7（地）系1队本27班(2003年)	</edu>
+     <work>新浪网技术（中国）有限公司	2007年 - 2008年	网络系统部	康盛创想（北京）科技有限公司	2008年 - 2009年	SYSLAB、5D6D	北京三快科技有限公司	2011年 - 至今年	技术部	</work>
+     <renZh>0</renZh>
+     <brithday>null</brithday>
+ </person>
+ <person>
+     <id>104088</id>
+     <sex>男</sex>
+     <address>北京,朝阳区</address>
+     <fansNum>559</fansNum>
+     <summary>WG帝都，详见头像。navigator182@navigator182.org</summary>
+     <wbNum>3588</wbNum>
+     <gzNum>351</gzNum>
+     <blog>http://blog.sina.com.cn/microvast</blog>
+     <edu>null</edu>
+     <work>正弦A	2007年 - 至今年	总是听到：开工吧	</work>
+     <renZh>0</renZh>
+     <brithday>双鱼座</brithday>
+ </person>
+ <person>
+     <id>104104</id>
+     <sex>男</sex>
+     <address>北京,海淀区</address>
+     <fansNum>512</fansNum>
+     <summary>忠实的#电影 #美剧 #数码 #互联网 爱好者；优秀的#四方党员；严肃的#中国近代史 #中共党史 探索者；#帝都天气播报员；#食品安全观察员。</summary>
+     <wbNum>2601</wbNum>
+     <gzNum>299</gzNum>
+     <blog>http://blog.sina.com.cn/xiasi1</blog>
+     <edu>null</edu>
+     <work>手心手焙	</work>
+     <renZh>0</renZh>
+     <brithday>null</brithday>
+ </person>SELECT wbnum FROM weibo1 GROUP BY address order BY address asc;
+ SELECT * FROM weibo1 where brithday='1996年2月14号';like concat('%',"大学",'%');
+ <person>
+     <id>104480</id>
+     <sex>男</sex>
+     <address>北京,海淀区</address>
+     <fansNum>216</fansNum>
+     <summary>自恋狂</summary>
+     <wbNum>264</wbNum>
+     <gzNum>161</gzNum>
+     <blog>http://blog.sina.com.cn/loveyuyangz</blog>
+     <edu>大学：	河北科技大学	&nbsp;	河北科技大学	</edu>
+     <work>新浪网技术中国有限公司	2008年 - 至今年	新浪网技术（中国）有限公司	2008年 - 至今年	生活产业部	</work>
+     <renZh>0</renZh>
+     <brithday>1982年2月20日</brithday>
+ </person>
+ <person>
+     <id>104508</id>
+     <sex>男</sex>
+     <address>北京,海淀区</address>
+     <fansNum>479</fansNum>
+     <summary>得闲饮茶</summary>
+     <wbNum>1061</wbNum>
+     <gzNum>196</gzNum>
+     <blog>http://blog.sina.com.cn/dgroundhog</blog>
+     <edu>大学：	华中科技大学	-电子科学与技术系(2000年)	</edu>
+     <work>精品网	2010年 - 至今年	技术部	新浪网	2008年 - 2010年	互动社区	</work>
+     <renZh>0</renZh>
+     <brithday>1982年2月12日</brithday>
+ </person>
+ <person>
+     <id>104537</id>
+     <sex>男</sex>
+     <address>广东,广州</address>
+     <fansNum>730</fansNum>
+     <summary>小饭快跑</summary>
+     <wbNum>1131</wbNum>
+     <gzNum>433</gzNum>
+     <blog>null</blog>
+     <edu>null</edu>
+     <work>北京新浪互联信息服务有限公司	2008年 - 	</work>
+     <renZh>0</renZh>
+     <brithday>1983年4月23日</brithday>
+ </person>
+ <person>
+     <id>104899</id>
+     <sex>男</sex>
+     <address>北京,海淀区</address>
+     <fansNum>898</fansNum>
+     <summary>爱旅游、爱音乐、爱摄影、爱美食、爱程序。有共同爱好的都来加我吧 https://addons.mozilla.org/zh-CN/firefox/addon/jsonshow/</summary>
+     <wbNum>515</wbNum>
+     <gzNum>1090</gzNum>
+     <blog>http://snow.sinaapp.com</blog>
+     <edu>大学：	吉林大学	-软件学院 本科+研究生(2003年)	&nbsp;	清华大学	(2007年)	</edu>
+     <work>新浪网技术（中国）有限公司	2008年 - 至今年	研发部-搜索	</work>
+     <renZh>3</renZh>
+     <brithday>1985年6月12日</brithday>
+ </person>
+ <person>
+     <id>104908</id>
+     <sex>男</sex>
+     <address>北京,</address>
+     <fansNum>3820</fansNum>
+     <summary>新浪微博事业部 媒介 CCTV、港澳台等地电视类媒体合作</summary>
+     <wbNum>8366</wbNum>
+     <gzNum>1968</gzNum>
+     <blog>null</blog>
+     <edu>高中：	北京九中	(2002年)	</edu>
+     <work>新浪网技术（中国）有限公司	2009年 - 至今年	微博事业部媒体合作	</work>
+     <renZh>3</renZh>
+     <brithday>null</brithday>
+ </person>
+ <person>
+     <id>330312</id>
+     <sex>男</sex>
+     <address>四川,成都</address>
+     <fansNum>24</fansNum>
+     <summary>群欢，错过了寂寞的眼睛</summary>
+     <wbNum>49</wbNum>
+     <gzNum>63</gzNum>
+     <blog>null</blog>
+     <edu>大学：	四川工商职业技术学院	(2006年)	</edu>
+     <work>传媒公司	2009年 - 至今年	</work>
+     <renZh>0</renZh>
+     <brithday>11月30日</brithday>
+ </person>
+ <person>
+     <id>389599</id>
+     <sex>男</sex>
+     <address>广东,深圳</address>
+     <fansNum>2707</fansNum>
+     <summary>宁愿胖的精致也不愿瘦的雷同！for Jason@T083</summary>
+     <wbNum>332</wbNum>
+     <gzNum>1077</gzNum>
+     <blog>http://t.sina.com.cn/389599/</blog>
+     <edu>中专技校：	汽车驾驶学校	-安徽蚌埠解放军汽车管理学院(2003年)	</edu>
+     <work>政府事业单位	2002年 - 至今年	</work>
+     <renZh>3</renZh>
+     <brithday>双子座</brithday>
+ </person>
+ <person>
+     <id>439107</id>
+     <sex>男</sex>
+     <address>北京,朝阳区</address>
+     <fansNum>251</fansNum>
+     <summary>他还没填写个人介绍</summary>
+     <wbNum>810</wbNum>
+     <gzNum>385</gzNum>
+     <blog>null</blog>
+     <edu>中专技校：	北京市酒店管理学校	(2001年)	初中：	广渠门中学	(1998年)	</edu>
+     <work>北京集佳知识产权代理有限公司	2011年 - 至今年	行政部	</work>
+     <renZh>3</renZh>
+     <brithday>1986年8月8日</brithday>
+ </person>
+ <person>
+     <id>657276</id>
+     <sex>男</sex>
+     <address>广东,广州</address>
+     <fansNum>29</fansNum>
+     <summary>80后</summary>
+     <wbNum>28</wbNum>
+     <gzNum>46</gzNum>
+     <blog>null</blog>
+     <edu>大学：	吉林大学	-商学院旅游管理(2002年)	</edu>
+     <work>腾讯	2009年 - 至今年	</work>
+     <renZh>0</renZh>
+     <brithday>1983年1月26日</brithday>
+ </person>
+ <person>
+     <id>679944</id>
+     <sex>男</sex>
+     <address>浙江,嘉兴</address>
+     <fansNum>21</fansNum>
+     <summary>本脖所有内容和俺供职的单位无关 都是俺自己的观点和转发。转发不代表个人观点。</summary>
+     <wbNum>46</wbNum>
+     <gzNum>73</gzNum>
+     <blog>http://blog.sina.com.cn/afeixp</blog>
+     <edu>null</edu>
+     <work>李子园	2009年 - 至今年	行政主管	</work>
+     <renZh>0</renZh>
+     <brithday>null</brithday>
+ </person>
+ <person>
+     <id>800414</id>
+     <sex>男</sex>
+     <address>北京,海淀区</address>
+     <fansNum>263</fansNum>
+     <summary>他还没填写个人介绍</summary>
+     <wbNum>346</wbNum>
+     <gzNum>123</gzNum>
+     <blog>null</blog>
+     <edu>大学：	中国人民大学	-经济学院	&nbsp;	中国人民大学	-法学院	</edu>
+     <work>涉密	</work>
+     <renZh>0</renZh>
+     <brithday>null</brithday>
+ </person>
+ <person>
+     <id>888371</id>
+     <sex>男</sex>
+     <address>北京,海淀区</address>
+     <fansNum>101</fansNum>
+     <summary>天下互联科技集团2009年.2010年年度销售冠军，现任集团项目总监，2011年3月份企业精神大使，中国电子商务协会3G发展与应用工程资深专家</summary>
+     <wbNum>2</wbNum>
+     <gzNum>26</gzNum>
+     <blog>null</blog>
+     <edu>null</edu>
+     <work>新浪网技术（中国）有限公司	2010年 - 至今年	</work>
+     <renZh>1</renZh>
+     <brithday>5月3日</brithday>
+ </person>
+ <person>
+     <id>932205</id>
+     <sex>男</sex>
+     <address>广东,广州</address>
+     <fansNum>2597</fansNum>
+     <summary>用爱收集阳光，点燃成长希望。</summary>
+     <wbNum>2275</wbNum>
+     <gzNum>252</gzNum>
+     <blog>http://www.shenlan.org</blog>
+     <edu>大学：	中山大学	-管院(1994年)	</edu>
+     <work>广州天蓝策划工作室	1998年 - 至今年	职业经理人	</work>
+     <renZh>1</renZh>
+     <brithday>1978年7月2日</brithday>
+ </person>
+ <person>
+     <id>2305867</id>
+     <sex>男</sex>
+     <address>上海,浦东新区</address>
+     <fansNum>137</fansNum>
+     <summary>还是原始社会好！</summary>
+     <wbNum>137</wbNum>
+     <gzNum>97</gzNum>
+     <blog>null</blog>
+     <edu>大学：	中央财经大学	-二，巨二，超二(2002年)	</edu>
+     <work>招商证券（香港）	2007年 - 2012年	港股 上海办事处	</work>
+     <renZh>0</renZh>
+     <brithday>null</brithday>
+ </person>
+ <person>
+     <id>2665144</id>
+     <sex>男</sex>
+     <address>山东,临沂</address>
+     <fansNum>243</fansNum>
+     <summary>博客，一个可以转载知识，放飞心情的空间，我的博客，一个辅导员的心路历程：http://blog.sina.com.cn/lyinfor</summary>
+     <wbNum>446</wbNum>
+     <gzNum>97</gzNum>
+     <blog>http://blog.sina.com.cn/lyinfor</blog>
+     <edu>大学：	山东师范大学	(1993年)	&nbsp;	中国石油大学（华东）	(1999年)	&nbsp;	苏州大学	(2004年)	</edu>
+     <work>临沂师范学院	1995年 - 2010年	信息学院	临沂大学	2010年 - 至今年	传媒学院	</work>
+     <renZh>0</renZh>
+     <brithday>3月16日</brithday>
+ </person>
+ <person>
+     <id>3003089</id>
+     <sex>男</sex>
+     <address>山东,泰安</address>
+     <fansNum>647</fansNum>
+     <summary>欲望 才是孤独的原因 翡翠梦境-柒佰</summary>
+     <wbNum>2741</wbNum>
+     <gzNum>203</gzNum>
+     <blog>http://blog.sina.com.cn/10wlc</blog>
+     <edu>大学：	中国矿业大学	(2001年)	</edu>
+     <work>空手套白狼的	</work>
+     <renZh>3</renZh>
+     <brithday>1982年5月24日</brithday>
+ </person>
+ <person>
+     <id>3117281</id>
+     <sex>男</sex>
+     <address>北京,海淀区</address>
+     <fansNum>387</fansNum>
+     <summary>nice feelings Remember I smile !</summary>
+     <wbNum>1020</wbNum>
+     <gzNum>156</gzNum>
+     <blog>http://blog.sina.com.cn/u/3117281</blog>
+     <edu>null</edu>
+     <work>新浪网技术（中国）有限公司	</work>
+     <renZh>3</renZh>
+     <brithday>双子座</brithday>
+ </person>
+ <person>
+     <id>3185245</id>
+     <sex>男</sex>
+     <address>湖北,荆门</address>
+     <fansNum>4954</fansNum>
+     <summary>欢迎光临麦咔咔淘生活！域名：www.maikaka.cn，至底正品，顾客至上！</summary>
+     <wbNum>5937</wbNum>
+     <gzNum>125</gzNum>
+     <blog>http://www.maikaka.cn</blog>
+     <edu>中专技校：	荆门市城乡建设学校	(2004年)	</edu>
+     <work>贝林集团池州建设工程有限公司	2011年 - 至今年	安全、资料	麦咔咔时尚生活旗舰店	2006年 - 至今年	</work>
+     <renZh>3</renZh>
+     <brithday>1989年2月28日</brithday>
+ </person>
+ <person>
+     <id>3346888</id>
+     <sex>男</sex>
+     <address>广东,深圳</address>
+     <fansNum>354</fansNum>
+     <summary>达则兼济天下，穷则独善其身！ 热情对待生活，真诚对待朋友，执着对待事业！</summary>
+     <wbNum>542</wbNum>
+     <gzNum>396</gzNum>
+     <blog>http://blog.sina.com.cn/yx209</blog>
+     <edu>null</edu>
+     <work>深圳星星谷电子商务有限公司	2009年 - 至今年	深圳好韵科技有限公司	2011年 - 至今年	总经理	深圳市鸿业星房地产经纪有限公司	2003年 - 2010年	副总经理	</work>
+     <renZh>0</renZh>
+     <brithday>1978年12月29日</brithday>
+ </person>
+ <person>
+     <id>3519230</id>
+     <sex>男</sex>
+     <address>广东,广州</address>
+     <fansNum>362</fansNum>
+     <summary>奋斗....</summary>
+     <wbNum>514</wbNum>
+     <gzNum>307</gzNum>
+     <blog>null</blog>
+     <edu>大学：	广东轻工职业技术学院	-计算机工程系	高中：	龙田中学	-高三五班	</edu>
+     <work>新浪网技术（中国）有限公司	2009年 - 	研发	</work>
+     <renZh>0</renZh>
+     <brithday>1983年6月12日</brithday>
+ </person>
+ <person>
+     <id>3571130</id>
+     <sex>男</sex>
+     <address>北京,海淀区</address>
+     <fansNum>1020</fansNum>
+     <summary>我是超级大坏蛋！</summary>
+     <wbNum>263</wbNum>
+     <gzNum>201</gzNum>
+     <blog>http://t.sina.com.cn/3571130</blog>
+     <edu>null</edu>
+     <work>新浪网技术（中国）有限公司	</work>
+     <renZh>0</renZh>
+     <brithday>null</brithday>
+ </person>
+ <person>
+     <id>4681366</id>
+     <sex>男</sex>
+     <address>辽宁,大连</address>
+     <fansNum>68</fansNum>
+     <summary>他还没填写个人介绍</summary>
+     <wbNum>353</wbNum>
+     <gzNum>128</gzNum>
+     <blog>null</blog>
+     <edu>null</edu>
+     <work>IBM	2010年 - 至今年	</work>
+     <renZh>0</renZh>
+     <brithday>1983年2月16日</brithday>
+ </person>
+ <person>
+     <id>7280060</id>
+     <sex>男</sex>
+     <address>广东,广州</address>
+     <fansNum>171</fansNum>
+     <summary>talent is endurance patience</summary>
+     <wbNum>356</wbNum>
+     <gzNum>213</gzNum>
+     <blog>http://overstone.net/blog/</blog>
+     <edu>大学：	广东医学院	(2002年)	高中：	金山中学	(1999年)	</edu>
+     <work>sina	</work>
+     <renZh>0</renZh>
+     <brithday>1983年2月19日</brithday>
+ </person>
+ <person>
+     <id>7525254</id>
+     <sex>男</sex>
+     <address>北京,海淀区</address>
+     <fansNum>422</fansNum>
+     <summary>他还没填写个人介绍</summary>
+     <wbNum>1170</wbNum>
+     <gzNum>486</gzNum>
+     <blog>null</blog>
+     <edu>null</edu>
+     <work>新浪网	</work>
+     <renZh>0</renZh>
+     <brithday>null</brithday>
+ </person>
+ <person>
+     <id>7706688</id>
+     <sex>男</sex>
+     <address>陕西,西安</address>
+     <fansNum>517</fansNum>
+     <summary>杀得了木马，翻得了围墙.</summary>
+     <wbNum>1946</wbNum>
+     <gzNum>329</gzNum>
+     <blog>null</blog>
+     <edu>大学：	西北工业大学	-6315(2001年)	</edu>
+     <work>中兴通讯股份有限公司	2005年 - 2011年	CDMA	华为技术有限公司	2011年 - 至今年	存量经营部	</work>
+     <renZh>3</renZh>
+     <brithday>1983年4月2日</brithday>
+ </person>
+ <person>
+     <id>8023553</id>
+     <sex>男</sex>
+     <address>北京,朝阳区</address>
+     <fansNum>256</fansNum>
+     <summary>爱生活</summary>
+     <wbNum>316</wbNum>
+     <gzNum>265</gzNum>
+     <blog>null</blog>
+     <edu>null</edu>
+     <work>海航	</work>
+     <renZh>0</renZh>
+     <brithday>双子座</brithday>
+ </person>
+ <person>
+     <id>9545954</id>
+     <sex>男</sex>
+     <address>北京,朝阳区</address>
+     <fansNum>847</fansNum>
+     <summary>奇虎360GUI设计师、Iconfans管理员</summary>
+     <wbNum>2411</wbNum>
+     <gzNum>226</gzNum>
+     <blog>http://www.iconfans.com</blog>
+     <edu>null</edu>
+     <work>奇虎360-UED	</work>
+     <renZh>0</renZh>
+     <brithday>1996年1月10日</brithday>
+ </person>
+ <person>
+     <id>9775521</id>
+     <sex>男</sex>
+     <address>海外,意大利</address>
+     <fansNum>13613</fansNum>
+     <summary>√ 一个人在海外，过着纠结折腾人的日子。</summary>
+     <wbNum>466</wbNum>
+     <gzNum>1323</gzNum>
+     <blog>http://www.hicina.com</blog>
+     <edu>大学：	上海外国语大学	(2001年)	</edu>
+     <work>威尼斯欧华旅馆	2009年 - 至今年	经理	意大利华人网	2009年 - 至今年	CEO	</work>
+     <renZh>1</renZh>
+     <brithday>1984年9月8日</brithday>
+ </person>
+ <person>
+     <id>14034745</id>
+     <sex>男</sex>
+     <address>黑龙江,哈尔滨</address>
+     <fansNum>167</fansNum>
+     <summary>不想当IT男 学法律有没有人要 逐渐从正太步入大叔</summary>
+     <wbNum>686</wbNum>
+     <gzNum>195</gzNum>
+     <blog>http://blog.sina.com.cn/knowgodness</blog>
+     <edu>大学：	黑龙江科技学院	-利民校区(2006年)	</edu>
+     <work>黑龙江北辰律师事务所	2010年 - 至今年	</work>
+     <renZh>0</renZh>
+     <brithday>1987年1月10日</brithday>
+ </person>
+ <person>
+     <id>15113632</id>
+     <sex>男</sex>
+     <address>浙江,杭州</address>
+     <fansNum>740</fansNum>
+     <summary>爱杭州，爱梦君，不解释……</summary>
+     <wbNum>3391</wbNum>
+     <gzNum>1798</gzNum>
+     <blog>http://blog.sina.com.cn/sukai1234</blog>
+     <edu>null</edu>
+     <work>中瑞达水务有限公司	2009年 - 2010年	中控室	北京中瑞达水务有限公司	</work>
+     <renZh>0</renZh>
+     <brithday>1990年5月5日</brithday>
+ </person>
+</PERSONS>
